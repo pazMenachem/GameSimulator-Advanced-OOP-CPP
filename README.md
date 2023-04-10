@@ -4,3 +4,4 @@ Project using Design Patterns.
 Model View and Controller objects (architectural pattern) for ruunig the Simulator.
 The Model is a Singelton.
 Creating the vehicles with a Factory method Object.
+by Ilan rothman and Paz Menachem
